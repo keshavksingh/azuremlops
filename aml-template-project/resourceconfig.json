@@ -1,0 +1,27 @@
+{"DEV_ENV":
+            {"sourcekeyvault":"mlopsazkveus01",
+            "target_keyvault":"mlopsazkveus01prod",
+            "target_subscriptionid":"",
+            "target_resourcegroup":"mlops-prod",
+            "target_amlws":"mlopsamleus01prod",
+            "target_data_factory_name":"mlopsadfeus01prod",
+            "target_amlwsrootdirectory":"aml-template-project",
+            "target_tenantid":"",
+            "target_aml_pipeline_name":"pl_aml-template-experiment",
+            "target_adf_pipeline_name":"PL_AML_MASTER",
+            "target_trigger_name":"TR_PL_AML_MASTER_EXPERTIMENT_VERSION",
+            "target_triger_interval_hour":12},
+"PROD_ENV":
+            {"sourcekeyvault":"mlopsazkveus01",
+            "target_keyvault":"mlopsazkveus01prod",
+            "target_subscriptionid":"",
+            "target_resourcegroup":"mlops-prod",
+            "target_amlws":"mlopsamleus01prod",
+            "target_data_factory_name":"mlopsadfeus01prod",
+            "target_amlwsrootdirectory":"aml-template-project",
+            "target_tenantid":"",
+            "target_aml_pipeline_name":"pl_aml-template-experiment",
+            "target_adf_pipeline_name":"PL_AML_MASTER",
+            "target_trigger_name":"TR_PL_AML_MASTER_EXPERTIMENT_VERSION",
+            "target_triger_interval_hour":12}
+}
