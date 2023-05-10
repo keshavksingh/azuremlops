@@ -1,4 +1,4 @@
-# MLOPS on AZURE AML - Template Project
+# MLOPS on AZURE: "AML - Template Project"
  MLOPS on AML - Template Project
 
 ![image](https://github.com/keshavksingh/azuremlops/assets/41631964/bfe8b63b-4d6a-4dd2-baca-cf885dd4ecd7)
