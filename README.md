@@ -10,7 +10,3 @@
 ![image](https://user-images.githubusercontent.com/41631964/234974203-8529e2c3-29e2-4d71-9599-b4b49bd83024.png)
 
 ![image](https://user-images.githubusercontent.com/41631964/234974258-2dc8e946-6bef-4bba-a6d6-4663e159ba74.png)
-
-![image](https://github.com/keshavksingh/azuremlops/assets/41631964/e9298dad-375d-4963-aa14-fb8a3578467b)
-
-![image](https://github.com/keshavksingh/azuremlops/assets/41631964/270924c7-0e31-4591-a489-f0a6cde1d8ff)
