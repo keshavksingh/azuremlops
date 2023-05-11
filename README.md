@@ -14,3 +14,9 @@
 ![image](https://user-images.githubusercontent.com/41631964/234974203-8529e2c3-29e2-4d71-9599-b4b49bd83024.png)
 
 ![image](https://user-images.githubusercontent.com/41631964/234974258-2dc8e946-6bef-4bba-a6d6-4663e159ba74.png)
+
+![image](https://github.com/keshavksingh/azuremlops/assets/41631964/36e89bd0-5783-400c-b64a-f3f7bc0ab38d)
+
+![image](https://github.com/keshavksingh/azuremlops/assets/41631964/97af7ab0-4994-45b1-a7b2-eb90fba33610)
+
+![image](https://github.com/keshavksingh/azuremlops/assets/41631964/3170cecc-4dac-4ba0-82a6-4ffda817eefe)
