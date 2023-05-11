@@ -2,8 +2,12 @@
  MLOPS on AML - Template Project
  
  Reference https://medium.com/@masterkeshav/revolutionizing-mlops-a-journey-towards-a-decentralized-agile-and-efficient-platform-on-azure-fdc529fda52a
- 
+
+![image](https://github.com/keshavksingh/azuremlops/assets/41631964/453510af-86cc-42e4-84fa-4ac8c3a75dda)
+
 ![image](https://user-images.githubusercontent.com/41631964/234974029-16e313a7-da7a-4bed-b87e-d03fa7f410a2.png)
+
+![image](https://github.com/keshavksingh/azuremlops/assets/41631964/e8570f95-d27d-48fd-b00b-d4b8d7ab475e)
 
 ![image](https://user-images.githubusercontent.com/41631964/234974143-8409c5a5-d5ca-48fe-99ef-ebadb0144f96.png)
 
