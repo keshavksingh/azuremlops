@@ -1,5 +1,7 @@
 # MLOPS on AZURE: "AML - Template Project"
  MLOPS on AML - Template Project
+ 
+ Reference https://medium.com/@masterkeshav/revolutionizing-mlops-a-journey-towards-a-decentralized-agile-and-efficient-platform-on-azure-fdc529fda52a
 
 ![image](https://github.com/keshavksingh/azuremlops/assets/41631964/bfe8b63b-4d6a-4dd2-baca-cf885dd4ecd7)
 
